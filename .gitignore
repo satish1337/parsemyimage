@@ -1,0 +1,28 @@
+# Python bytecode:
+*.py[co]
+
+.boto
+
+# Packaging files:
+*.egg*
+dist
+
+# Editor temp files:
+*.swp
+*~
+
+# Any unwanted build directories:
+build
+
+.idea
+.htaccess
+.DS_Store
+config.txt
+
+.vagrant/
+Vagrantfile
+
+# Emacs cruft
+*~
+*#*
+*.pyc
